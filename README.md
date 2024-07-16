@@ -11,7 +11,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Next Js, MongoDB, Docker**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **DevOps.**
 
 - ☁️ I've keen interest in cloud computing. So, I'm learning **Fullstack**
 
