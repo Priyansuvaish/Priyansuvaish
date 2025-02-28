@@ -9,18 +9,18 @@
 <!--h1 without bottom border-->
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Next Js, MongoDB, Docker**
+- 🔭 I’m currently working on **Next.js, MongoDB, Docker, CrewAI Agentic Framework**  
 
-- 🌱 I’m currently learning **DevOps.**
+- 🌱 I’m currently learning **DevOps**  
 
-- ☁️ I've keen interest in cloud computing. So, I'm learning **Fullstack**
+- ☁️ I have a keen interest in cloud computing and **Fullstack development**  
 
-- 💬 Ask me about **Node Js, SpringBoot, Java, React Js, MongoDB, mySql**
+- 🤖 Exploring AI-driven development with **CrewAI Agentic Framework**  
 
-- 📫 Feel free to reach me out **priyanshugupta753@gmail.com**
+- 💬 Ask me about **Node.js, Spring Boot, Java, React.js, MongoDB, MySQL**  
+
+- 📫 Feel free to reach me at **priyanshugupta753@gmail.com**  
 <!--Intro end-->
-
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -28,13 +28,13 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,jenkins,docker,github,html,java,js,linux,mysql,nextjs,nodejs,react,tailwind,mongodb,vscode,sqlite&perline=14" />
   </a>
 </p>
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -45,23 +45,8 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="www.linkedin.com/in/priyanshu-vaish" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-vaish" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--
-**Priyansuvaish/Priyansuvaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
